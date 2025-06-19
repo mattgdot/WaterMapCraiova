@@ -8,6 +8,8 @@ Built using **Jetpack Compose** for a modern and intuitive UI, it integrates **F
 [The app is available to download on Google Play](https://play.google.com/store/apps/details?id=com.app.water4craiova)
 
 # Media coverage
+The project gained public attention and was well-received by the local press. I was invited by TV channels, radio stations, and news websites to give interviews and talk about the app's purpose and its development.
+
 [![p1](https://media.discordapp.net/attachments/997141915722055734/1385327070296674444/ody5cjnud2nygyg6yvta.gif?ex=6855a9df&is=6854585f&hm=04c29490a290cbbc0e1e51af807a6a37db7a3c37828ba49e2c741aee48f6eed7&=&width=142&height=80)](https://www.euronews.ro/articole/aplicatia-care-iti-gaseste-apa-gratuita-un-elev-din-craiova-ajuta-oamenii-sa-gase)
 [![p2](https://media.discordapp.net/attachments/997141915722055734/1385327070669963366/euxvvy5hdzbjkwrb2ss5.png?ex=6855a9df&is=6854585f&hm=989f8ec8026b31076eb112df561823327e9ded8a64d04ac458729819258df2d6&=&format=webp&quality=lossless&width=272&height=88)](https://www.gds.ro/Local/Dolj/2024-07-31/un-tanar-din-craiova-a-creeat-o-aplicatie-watermap-care-va-ajuta-sa-gasiti-cea-mai-apropiata-fantana-din-oras/)
 
