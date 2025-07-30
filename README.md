@@ -1,21 +1,64 @@
-# WaterMap Craiova
-This mobile app helps users easily locate nearby water sources in Craiova. Whether you're exploring the city or just out for a walk, stay hydrated by finding water spots around you.
+# 🚰 WaterMap Craiova
 
-# About the project
-Built using **Jetpack Compose** for a modern and intuitive UI, it integrates **Firebase Authentication** for secure login and **Firestore** as the main database, where the list of water sources is stored and managed. The app also uses **Google Maps API** and *geocoding* to display water locations on the map and help users navigate to them effortlessly.
+**WaterMap Craiova** is a mobile app that helps users quickly find nearby public water sources. Whether you're exploring the city or just out for a walk, this app makes it easy to stay hydrated by locating fountains and other water spots around you.
 
-# Google Play
-[The app is available to download on Google Play](https://play.google.com/store/apps/details?id=com.app.water4craiova)
+---
 
-# Media coverage
-The project gained public attention and was well-received by the local press. I was invited by TV channels, radio stations, and news websites to give interviews and talk about the app's purpose and its development.
+## About the project
 
-[![p1](https://media.discordapp.net/attachments/997141915722055734/1385327070296674444/ody5cjnud2nygyg6yvta.gif?ex=6855a9df&is=6854585f&hm=04c29490a290cbbc0e1e51af807a6a37db7a3c37828ba49e2c741aee48f6eed7&=&width=142&height=80)](https://www.euronews.ro/articole/aplicatia-care-iti-gaseste-apa-gratuita-un-elev-din-craiova-ajuta-oamenii-sa-gase)
-[![p2](https://media.discordapp.net/attachments/997141915722055734/1385327070669963366/euxvvy5hdzbjkwrb2ss5.png?ex=6855a9df&is=6854585f&hm=989f8ec8026b31076eb112df561823327e9ded8a64d04ac458729819258df2d6&=&format=webp&quality=lossless&width=272&height=88)](https://www.gds.ro/Local/Dolj/2024-07-31/un-tanar-din-craiova-a-creeat-o-aplicatie-watermap-care-va-ajuta-sa-gasiti-cea-mai-apropiata-fantana-din-oras/)
+This app was built with a focus on usability, performance, and real-world impact. It uses:
 
-# Screenshots
-![img1](https://media.discordapp.net/attachments/997141915722055734/1385324217289150464/4wzuycdzbdrlb7eaflya.jpg?ex=6855a737&is=685455b7&hm=b4c53a262c99429f70f4d99b42d514eb61e4e0e9c566d3d55170349c27d6913b&=&format=webp&width=180&height=400)
-![img2](https://media.discordapp.net/attachments/997141915722055734/1385324216890687590/lk2kf2bhfcncin0vpy70.jpg?ex=6855a737&is=685455b7&hm=039159c6fad8777c5ddf73506c1fe5ca6d3dd35fd1d267c5d72cffb9a9f47188&=&format=webp&width=180&height=400)
-![img3](https://media.discordapp.net/attachments/997141915722055734/1385324216588439694/gop6jmdhmora4xlxfbv3.jpg?ex=6855a737&is=685455b7&hm=71d295638158a8832cc826afcb5930dc5b546c59f4f8499fd57d09fb9c4124ff&=&format=webp&width=180&height=400)
-![img4](https://media.discordapp.net/attachments/997141915722055734/1385324216169271356/z61vtawwzw0fv0kj3cus.jpg?ex=6855a737&is=685455b7&hm=7ac2708491919379d7c31ce49f1b23a6d41c891690435d01755fbb82112ead37&=&format=webp&width=180&height=400)
+* **Jetpack Compose** for a modern, intuitive user interface
+* **Firebase Authentication** for secure login and user management
+* **Firestore** as the main database, where water sources are stored and updated
+* **Google Maps API** and geocoding to display water locations and provide navigation
 
+The app is designed with simplicity and practicality in mind. It aims to support both residents and visitors by making access to clean water more convenient.
+
+---
+
+## Download
+
+The app is available on Google Play:
+
+[Download WaterMap Craiova](https://play.google.com/store/apps/details?id=com.app.water4craiova)
+
+---
+
+## Media coverage
+
+The project was well-received by the local press. I had the opportunity to talk about it in interviews with television channels, radio stations, and news platforms.
+
+<a href="https://www.euronews.ro/articole/aplicatia-care-iti-gaseste-apa-gratuita-un-elev-din-craiova-ajuta-oamenii-sa-gase">
+  <img src="https://drive.google.com/uc?export=download&id=1eITEqizs7YuLnbdlf71BhHPl-JHcQnSj" width="142" height="80">
+</a>
+&nbsp;
+<a href="https://www.gds.ro/Local/Dolj/2024-07-31/un-tanar-din-craiova-a-creeat-o-aplicatie-watermap-care-va-ajuta-sa-gasiti-cea-mai-apropiata-fantana-din-oras/">
+  <img src="https://drive.google.com/uc?export=download&id=1k1kFeiYRf3ddATzHXXsi8dFdk0iYgspo" width="272" height="88">
+</a>
+
+---
+
+## Screenshots
+
+<div style="display: flex; gap: 12px; flex-wrap: wrap;">
+  <img src="https://drive.google.com/uc?export=download&id=1Co7_yOhvEs-G17ErO2UXKmsx8jzCFgZh" width="307" height="682">
+  <img src="https://drive.google.com/uc?export=download&id=1hjJ7q_QGqSfia5EJX3Jayl786MhGWVUV" width="307" height="682">
+  <img src="https://drive.google.com/uc?export=download&id=1b62E9BZhi3if3lU_eDuhRbIjYu0gJDgj" width="307" height="682">
+</div>
+
+---
+
+## Tech stack
+
+* Kotlin
+* Jetpack Compose
+* Firebase (Authentication + Firestore)
+* Google Maps SDK
+* MVVM architecture
+
+---
+
+## Why this matters
+
+Access to clean, free drinking water is a basic need. In urban environments, it's often overlooked. WaterMap Craiova helps solve this by making water sources visible and accessible. It’s a small contribution toward smarter, more sustainable cities.
