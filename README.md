@@ -41,12 +41,7 @@ The project was well-received by the local press. I had the opportunity to talk 
 
 ## Screenshots
 
-<div style="display: flex; gap: 12px; flex-wrap: wrap;">
-  <img src="https://drive.google.com/uc?export=download&id=1Co7_yOhvEs-G17ErO2UXKmsx8jzCFgZh" width="307" height="682">
-  <img src="https://drive.google.com/uc?export=download&id=1hjJ7q_QGqSfia5EJX3Jayl786MhGWVUV" width="307" height="682">
-  <img src="https://drive.google.com/uc?export=download&id=1b62E9BZhi3if3lU_eDuhRbIjYu0gJDgj" width="307" height="682">
-  <img src="https://drive.google.com/uc?export=download&id=1s0ZOjmAI1YOQzOCS2E5906EpDGiIl4Rm" width="307" height="682">
-</div>
+<div style="display: flex; gap: 12px; flex-wrap: wrap;"> <img src="https://drive.google.com/uc?export=download&id=1Co7_yOhvEs-G17ErO2UXKmsx8jzCFgZh" width="240" height="532"> <img src="https://drive.google.com/uc?export=download&id=1hjJ7q_QGqSfia5EJX3Jayl786MhGWVUV" width="240" height="532"> <img src="https://drive.google.com/uc?export=download&id=1s0ZOjmAI1YOQzOCS2E5906EpDGiIl4Rm" width="240" height="532"> <img src="https://drive.google.com/uc?export=download&id=1b62E9BZhi3if3lU_eDuhRbIjYu0gJDgj" width="240" height="532"> </div>
 
 ---
 
