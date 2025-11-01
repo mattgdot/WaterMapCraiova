@@ -19,21 +19,6 @@ The app is designed with simplicity and practicality in mind. It aims to support
 
 <h2>Download</h2>  
 <a href="https://play.google.com/store/apps/details?id=com.app.water4craiova"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/2560px-Google_Play_Store_badge_EN.svg.png" width="200"></a> 
-
----
-
-## Media coverage
-
-The project was well-received by the local press. I had the opportunity to talk about it in interviews with television channels, radio stations, and news platforms.
-
-<a href="https://www.euronews.ro/articole/aplicatia-care-iti-gaseste-apa-gratuita-un-elev-din-craiova-ajuta-oamenii-sa-gase">
-  <img src="https://drive.google.com/uc?export=download&id=1eITEqizs7YuLnbdlf71BhHPl-JHcQnSj" width="142" height="80">
-</a>
-&nbsp;
-<a href="https://www.gds.ro/Local/Dolj/2024-07-31/un-tanar-din-craiova-a-creeat-o-aplicatie-watermap-care-va-ajuta-sa-gasiti-cea-mai-apropiata-fantana-din-oras/">
-  <img src="https://drive.google.com/uc?export=download&id=1k1kFeiYRf3ddATzHXXsi8dFdk0iYgspo" width="272" height="88">
-</a>
-
 ---
 
 ## Why this matters
