@@ -18,7 +18,7 @@ The app is designed with simplicity and practicality in mind. It aims to support
 ---
 
 <h2>Download</h2>  
-<a href="https://play.google.com/store/apps/details?id=com.app.water4craiova"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/2560px-Google_Play_Store_badge_EN.svg.png" width="200"></a> 
+<a href="https://play.google.com/store/apps/details?id=com.app.water4craiova"><img src="https://freelogopng.com/images/all_img/1664287128google-play-store-logo-png.png" width="200"></a> 
 
 ## Why this matters
 
